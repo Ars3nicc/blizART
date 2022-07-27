@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755403009001",
+    "project_id": "bizart-ede09",
+    "storage_bucket": "bizart-ede09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755403009001:android:4b6d627eb35db25fc5f978",
+        "android_client_info": {
+          "package_name": "com.example.composenavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755403009001-g5fn5u71li7e7fgb7706jfhgi2ie5cth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzde3hPOnggH_eI02j733ZehNBPJCLFT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755403009001-g5fn5u71li7e7fgb7706jfhgi2ie5cth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
